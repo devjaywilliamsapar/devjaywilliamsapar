@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaywilliamsapar" alt="jaywilliamsapar" /></a> </p>
 
 - 🌱 I’m currently learning **MongoDB | Firebase | Angular | TailwindCss | TypeScript**
+![200](https://user-images.githubusercontent.com/132253817/236659327-e3081321-24e0-4ec4-9277-fd4b7a517f1c.gif)
 
 - 👯 I’m looking to collaborate on **Databases | Backend | TypeScript**
 
