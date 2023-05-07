@@ -1,3 +1,7 @@
+
+![api](https://user-images.githubusercontent.com/132253817/236659575-f4dddac8-c2e0-49fe-bae9-dbe495d7952f.gif)
+
+
 <h1 align="center">Hi 👋, I'm Jay William Sapar</h1>
 <h3 align="center">I have always been fascinated with the way technology can shape our lives and how it can make a difference in the world. With the advancements in technology today, I believe that web development offers endless possibilities for creativity and innovation. And I am eager to explore this exciting field and see where it takes me.</h3>
 
